@@ -1,9 +1,7 @@
-# Discord-Music-Bot
-A complete code to download for a music bot. Using a module (discord-player) 🎧
+# Basic-Music-Discord-Bot
+Just a basic music bot coded in Javascript and has 10+ commands 🎧
 
-Looking for a code for a music bot ? This fully open source code is made for your project !
-
-If you need help with this project, to get support faster you can join the help server by just clicking [here](https://discord.gg/wrsRxJnTBu).
+Click [here](https://discord.gg/8ZWYaUpvxb) to join Electric Development Hub, a server which helps connecting developer and also aim in spreading culture of coding.
 
 ### ⚡ Installation
 
@@ -64,7 +62,7 @@ help, see the list of available commands.
 debug, see number of voice connections.
 ```
 
-### 🏓 Utilities (to change the code)
+### 🏓 Developer
 
 
-This is used with [discord.js](https://www.npmjs.com/package/discord.js) and [discord-player](https://www.npmjs.com/package/discord-player).
+This is proudly coded by Luther#5412. Make sure to join [Electric Development Hub](https://discord.gg/8ZWYaUpvxb).
